@@ -1,0 +1,29 @@
+# Blender 3.6.5 MTL File: 'uploads_files_2787972_an2.blend'
+# www.blender.org
+
+newmtl enterijer
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd interior_Diffuse.png
+
+
+newmtl fuselage_SHD
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd fuselage_Diffuse.png
+
+newmtl wings_SHD
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd wings_Diffuse.png
